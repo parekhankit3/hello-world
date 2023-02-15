@@ -1,5 +1,5 @@
 
-<body style="style:background-color: lightblue";>
+<body style="style:background-color:lightblue;";>
 <form action="action_page.php" align="center">
   <div class="container">
     <h1 style="color:Blue; text-align:center">New user Register for DevOps Learning Created By Ankit Parekh</h1>
@@ -8,6 +8,7 @@
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <br>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
@@ -35,7 +36,7 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-  
+   <h2> Best of Luck </h2> 
 </form>
 
 </body>
