@@ -1,6 +1,8 @@
-<form action="action_page.php">
+
+<body style="style:background-color: lightblue";>
+<form action="action_page.php" align="center">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1 style="color:Blue; text-align:center">New user Register for DevOps Learning Created By Ankit Parekh</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -35,3 +37,5 @@
 
   
 </form>
+
+</body>
