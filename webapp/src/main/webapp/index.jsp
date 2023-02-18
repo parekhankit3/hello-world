@@ -1,5 +1,5 @@
 
-<body style="background-color:lightblue;";>
+<body style="background-color:lightblue;">
 <form action="action_page.php" align="center">
   <div class="container">
     <h1 style="color:Blue; text-align:center">New user Register for DevOps Learning Created By Ankit Parekh</h1>
@@ -11,7 +11,7 @@
     <br>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter full  mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
     <br>
