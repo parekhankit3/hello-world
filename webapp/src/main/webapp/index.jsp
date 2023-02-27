@@ -6,22 +6,22 @@
     <h4>Please fill in this form to create an account.</h4>
     <hr>
      
-    <label for="Name"><b>Enter Your Name</b></label>
+    <label for="Name"><b>Enter Only Your Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     <br>
     
-    <label for="mobile"><b>Enter My  mobile</b></label>
+    <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
     <br>
 
-    <label for="email"><b>Enter My Email</b></label>
+    <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     <br>
 
-    <label for="psw"><b>My Password</b></label>
+    <label for="psw"><b> Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
     <br>
