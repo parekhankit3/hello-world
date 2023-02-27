@@ -11,12 +11,12 @@
     <br>
     <br>
     
-    <label for="mobile"><b>Enter klp  mobile</b></label>
+    <label for="mobile"><b>Enter My  mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter My Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     <br>
