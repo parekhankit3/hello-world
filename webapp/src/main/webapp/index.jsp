@@ -6,7 +6,7 @@
     <h4>Please fill in this form to create an account.</h4>
     <hr>
      
-    <label for="Name"><b>Enter Only Your Name</b></label>
+    <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     <br>
@@ -21,12 +21,12 @@
     <br>
     <br>
 
-    <label for="psw"><b> Password</b></label>
+    <label for="psw"><b>Enter New Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Repeat New Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
@@ -35,7 +35,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an account? <a href="#">Sign in here..</a>.</p>
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
